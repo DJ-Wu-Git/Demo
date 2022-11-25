@@ -1,9 +1,5 @@
 # Demo
 
-DJ's first git demo
-
-
-
 Hello, world.
 
-5-17
+11.25
